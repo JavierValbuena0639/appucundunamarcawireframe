@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appUcundinamarca</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="imagendelauniversidad">imagenDeLaUniversidad</string>
+    <string name="hola">Hola!</string>
+    <string name="imgstudent">imgStudent</string>
+    <string name="qrfake">qrfake</string>
+</resources>
